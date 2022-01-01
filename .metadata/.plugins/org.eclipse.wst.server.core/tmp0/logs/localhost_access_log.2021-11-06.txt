@@ -1,0 +1,7 @@
+127.0.0.1 - - [06/Nov/2021:21:04:33 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:21:04:36 +0530] "GET /Rest_Assign_1/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:21:04:41 +0530] "GET /Rest_Assign_1/webapi/myresource HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:21:05:28 +0530] "GET /Rest_Assign_1/webapi/hello HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:21:05:55 +0530] "GET /Rest_Assign_1/webapi/movies HTTP/1.1" 200 365
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:21:07:06 +0530] "GET /Rest_Assign_1/webapi/movies HTTP/1.1" 200 365
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:21:10:31 +0530] "GET /Rest_Assign_1/webapi/movies/M001 HTTP/1.1" 200 86
